@@ -1,0 +1,4 @@
+pip install 로 설치
+
+scikit-learn : 사이킷런
+pandas : 판다스
